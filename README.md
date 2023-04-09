@@ -5,9 +5,9 @@ Link de inscripción: https://www.eventbrite.com/cc/talleres-the-carpentries-en-
 Página del curso: https://virginiagarciaalonso.github.io/2023-04-17-csvconf-r-git/
 
 ## Curso 1: R para Análisis científicos reproducibles
-Instructores: Macarena Quiroga, Sergio García Mora, Noelia Stetie
+Instructores: Macarena Quiroga, Sergio García Mora, Noelia Stetie  
 Horario: 9:30 a 12:30
 
 ## Curso 2: Introducción a Git y Github desde RStudio
-Instructoras: Irene Ramos, Andrea Gómez Vargas
+Instructoras: Irene Ramos, Andrea Gómez Vargas  
 Horario: 14 a 16

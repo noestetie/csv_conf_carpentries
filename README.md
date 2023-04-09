@@ -1,7 +1,7 @@
 # csv_conf_carpentries
 Repositorio de materiales de los cursos de The Carpentries dictados en la CSV Conf 2023.
 
-Link de inscripción: https://www.eventbrite.com/cc/talleres-the-carpentries-en-la-csvconfv7-1944179
+Link de inscripción: https://www.eventbrite.com/cc/talleres-the-carpentries-en-la-csvconfv7-1944179  
 Página del curso: https://virginiagarciaalonso.github.io/2023-04-17-csvconf-r-git/
 
 ## Curso 1: R para Análisis científicos reproducibles

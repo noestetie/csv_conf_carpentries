@@ -4,7 +4,7 @@
 # creamos un dataframe
 gatos <- data.frame(color = c("mixto", "negro", "atigrado"),
                     peso = c(2.1, 5.0, 3.2),
-                    le_gusta_cuerda = c(1, 0, 1),
+                    juego_cuerda = c(1, 0, 1),
                     stringsAsFactors = TRUE) 
 
 # agregar una columna nueva
@@ -56,6 +56,8 @@ gatos[,-4] # número de columna
 # descargar archivo y cargarlo
 download.file("https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder-FiveYearData.csv", destfile = "data/gapminder-FiveYearData.csv")
 gapminder <- read.csv("data/gapminder-FiveYearData.csv")
+install.packages("gapminder")
+library(gapminder)
 
 # cargar el df sin descargarlo
 gapminder <- read.csv("https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder-FiveYearData.csv")
